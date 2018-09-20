@@ -1,0 +1,6 @@
+[
+  "first_prog.py",
+  "test_first_prog.py",
+  "test_first_prog.py::test_add_three",
+  "test_first_prog.py::test_sub_three"
+]
